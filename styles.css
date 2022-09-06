@@ -4,25 +4,22 @@
     padding-top: 100px
 }
 
-
-
-
 .top-cloud {
   position: absolute;
-  right: 30%;
-  top: 15%;
+  right: 1250px;
+  top: 100px;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 30%;
-  bottom: 15%;
+  left: 1250px;
+  bottom: 100px;
 }
 
 .middle-container {
   position: relative;
   text-align: center;
-  padding: 100px;
+  padding: 50px;
   margin: 100px 0;
 }
 
