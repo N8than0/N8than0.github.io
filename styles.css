@@ -4,9 +4,6 @@
     padding-top: 100px
 }
 
-
-
-
 .top-cloud {
   position: relative;
   left: 400px;
@@ -38,8 +35,9 @@
 }
 
 .info {
-  width: 20%;
+  width: 30%;
   margin: auto;
+  align-items: center;
 }
 
 .icon {
